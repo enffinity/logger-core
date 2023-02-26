@@ -1,0 +1,28 @@
+{
+  "name": "@logger/core",
+  "version": "0.0.1",
+  "description": "logger is a logging library you can use in any project",
+  "main": "index.js",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enffinity/logger-core.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "enffinity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enffinity/logger-core/issues"
+  },
+  "homepage": "https://github.com/enffinity/logger-core#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "date-fns": "^2.29.3"
+  }
+}
